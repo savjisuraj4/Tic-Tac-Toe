@@ -9,8 +9,8 @@ Tic Tac Toe is game created in python and it is user friendly.This game can be p
 
 
 <p id="img_cont">
-	<img src="/1.png" width = "200" height= "350" hspace=40>
-	<img src="/2.png" width = "200" height= "350" hspace=40>
-	<img src="/3.png" width = "200" height= "350" hspace=40>
+	<img src="/1.png" width = "400" height= "350" hspace=40>
+	<img src="/2.png" width = "400" height= "350" hspace=40>
+	<img src="/3.png" width = "400" height= "350" hspace=40>
 	<img src="/4.png" width = "200" height= "350" hspace=40>
 </p>
